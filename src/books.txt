@@ -1,0 +1,20 @@
+The New York Times, Various Authors, 1, newspaper  
+The Da Vinci Code, Dan Brown, 689, book  
+National Geographic, Various Authors, 30, magazine  
+The Hobbit, J.R.R. Tolkien, 310, book  
+War and Peace, Leo Tolstoy, 1225, book  
+The Road, Cormac McCarthy, 287, book  
+Wired, Various Authors, 30, magazine  
+Fahrenheit 451, Ray Bradbury, 158, book  
+Pet Sematary, Stephen King, 300, book  
+Brave New World, Aldous Huxley, 311, book  
+The Washington Post, Various Authors, 1, newspaper  
+To Kill a Mockingbird, Harper Lee, 281, book  
+The Shining, Stephen King, 447, book  
+The Lord of the Rings, J.R.R. Tolkien, 1178, book  
+The Catcher in the Rye, J.D. Salinger, 277, book  
+Moby-Dick, Herman Melville, 585, book  
+Slaughterhouse-Five, Kurt Vonnegut, 275, book  
+The Guardian, Various Authors, 1, newspaper  
+1984, George Orwell, 328, book  
+The Great Gatsby, F. Scott Fitzgerald, 180, book  
