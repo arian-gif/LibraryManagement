@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-interface LibraryItem{
+interface LibraryItem{//hi
     String getTitle();
     String getAuthor();
     int getPages();
@@ -66,10 +66,10 @@ public class Library{
 
         List<AbstractLibraryItem> manager = new ArrayList<AbstractLibraryItem>();
         try{
-            File myFile = new File("books.txt"); 
+            File myFile = new File("C:\\Users\\16473\\Desktop\\library\\LibraryManagement\\src\\books.txt"); 
             Scanner myFileReader = new Scanner(myFile); 
 
-            while(myFileReader.nextLine() != null){
+            while(myFileReader.hasNextLine()){
                 String comma = myFileReader.nextLine();
                 String [] data = comma.split(",");
                 if(data.length==4){
@@ -83,6 +83,8 @@ public class Library{
 
             }
             myFileReader.close();
+            System.out.println("hi");
+
         }
         catch (FileNotFoundException e) {
             System.out.println("in the catch");
